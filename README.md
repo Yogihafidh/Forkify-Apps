@@ -1,4 +1,2 @@
-# Forkify Project
-
-Aplikasi resep dimana anda bisa mencari resep dan menulis resep anda sendiri.
-Link Aplikasi : https://forkifyapps-v2.netlify.app/
+# About Apps
+Forkify is a recipe web application that allows users to search, view, modify, tag, and add recipes as needed. The application is built using MVC architecture and uses data from the Forkify API. In addition to accessing recipes online, this application also provides information about the number of ingredients needed to make a particular dish according to the number of servings to be made. 
